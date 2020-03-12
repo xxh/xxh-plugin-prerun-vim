@@ -1,0 +1,1 @@
+alias vim="vim -u $XXH_HOME/xxh/plugins/xxh-plugin-bash-vim/build/vimrc"
