@@ -7,5 +7,5 @@ cd ~/.xxh/xxh/plugins \
     && ./xxh-plugin-bash-vim/build.xsh
     
 # connect once with updating host
-xxh yourhost +s xxh-bash-zero +if
+xxh yourhost +s bash-zero +if
 ```
