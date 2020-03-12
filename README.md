@@ -1,4 +1,6 @@
-Vim plugin for xxh bash.
+Vim plugin for xxh bash. 
+
+This is fork-ready repo: fork and add your settings to `vimrc` file.
 
 ## Install
 From xxh repo:
