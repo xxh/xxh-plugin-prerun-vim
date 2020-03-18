@@ -12,7 +12,7 @@ From any repo:
 ```
 cd ~/.xxh/xxh/plugins \
     && git clone --depth 1 https://github.com/xxh/xxh-plugin-bash-vim \
-    && ./xxh-plugin-bash-vim/build.xsh
+    && ./xxh-plugin-bash-vim/build.sh
     
 # connect once with updating host
 xxh yourhost +s bash-zero +if
