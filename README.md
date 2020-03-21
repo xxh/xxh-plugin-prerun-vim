@@ -5,7 +5,7 @@ This is fork-ready repo: fork and add your settings to `vimrc` file.
 ## Install
 From xxh repo:
 ```
-xxhp i xxh-plugin-bash-vim
+xxh +I xxh-plugin-bash-vim
 xxh yourhost +s bash-zero +if
 ```
 From any repo:
