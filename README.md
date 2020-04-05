@@ -1,18 +1,15 @@
-Vim plugin for xxh bash. 
-
-This is fork-ready repo: fork and add your settings to `vimrc` file.
+Example plugin for xxh bash shell. It creates vim alias with custom config. 
 
 ## Install
 From xxh repo:
 ```
-xxh +I xxh-plugin-bash-vim
-xxh yourhost +s bash-zero +if
+xxh +I xxh-plugin-bash-example
 ```
 From any repo:
 ```
-xxh +I xxh-plugin-bash-vim+git+https://github.com/xxh/xxh-plugin-bash-vim
+xxh +I xxh-plugin-bash-example+git+https://github.com/xxh/xxh-plugin-bash-example
 ```    
 Connect:
-``````
+```
 xxh yourhost +s bash-zero +if
 ```
