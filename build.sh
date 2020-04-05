@@ -16,7 +16,7 @@ done
 rm -rf $build_dir
 mkdir -p $build_dir
 
-for f in pluginrc.sh vimrc
+for f in *prerun.sh vimrc
 do
     cp $CDIR/$f $build_dir/
 done

@@ -1,15 +1,15 @@
-Example plugin for xxh bash shell. It creates vim alias with custom config. 
+Vim plugin for xxh. This is fork-ready repo: fork and add your settings to `vimrc` file.
 
 ## Install
 From xxh repo:
 ```
-xxh +I xxh-plugin-bash-example
+xxh +I xxh-plugin-prerun-vim
 ```
 From any repo:
 ```
-xxh +I xxh-plugin-bash-example+git+https://github.com/xxh/xxh-plugin-bash-example
+xxh +I xxh-plugin-prerun-vim+git+https://github.com/xxh/xxh-plugin-prerun-vim
 ```    
 Connect:
-```
-xxh yourhost +s bash-zero +if
+``````
+xxh yourhost +if
 ```
