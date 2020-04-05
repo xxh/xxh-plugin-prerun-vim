@@ -10,6 +10,6 @@ From any repo:
 xxh +I xxh-plugin-prerun-vim+git+https://github.com/xxh/xxh-plugin-prerun-vim
 ```    
 Connect:
-``````
+```
 xxh yourhost +if
 ```
