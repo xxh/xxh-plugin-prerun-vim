@@ -1,5 +1,7 @@
 Vim plugin for xxh. This is fork-ready repo: fork and add your settings to `vimrc` file.
 
+This is the demo plugin. We recommend to use [xxh-plugin-prerun-dotfiles](https://github.com/xxh/xxh-plugin-prerun-dotfiles) for the same goals.
+
 ## Install
 From xxh repo:
 ```
